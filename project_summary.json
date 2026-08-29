@@ -1,0 +1,11 @@
+{
+  "project_title": "Customer Churn Prediction",
+  "purpose": "Predict customer churn probability using supervised machine learning.",
+  "dataset_rows": 2500,
+  "dataset_type": "Synthetic telecom-style dataset",
+  "models_compared": [
+    "Logistic Regression",
+    "Random Forest"
+  ],
+  "selection_metric": "ROC-AUC"
+}
